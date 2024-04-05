@@ -14,7 +14,7 @@ if not os.path.exists('stadium_tracker.txt'):
         pass
 
 
-#Declaring universal variables
+#--Declaring universal variables--
 format = '%d-%m-%y'
 
 #--Declaring Functions--
